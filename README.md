@@ -18,3 +18,9 @@ poem repositories are expected to have a poem.json something like this:
 	"run": <boolean> // whether or not your poem should actually be executed
 }
 ```
+
+### poetry
+
+try reciting the following:
+
+ - [delicious](https://github.com/wachunga/delicious-poem)
