@@ -1,0 +1,20 @@
+{
+  "name": "code-poetry",
+  "version": "0.5.0",
+  "description": "Javascript poem recital",
+  "bin": {
+    "recite": "./bin/recite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wachunga/code-poetry.git"
+  },
+  "keywords": [
+    "poem",
+    "code",
+    "poetry",
+    "recital",
+    "recite"
+  ],
+  "author": "David Hirtle <wachunga@gmail.com>"
+}
